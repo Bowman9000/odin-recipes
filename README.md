@@ -1,0 +1,1 @@
+Odin Recipes is a test project to practice HTML stucture and learn Git and GitHub.
